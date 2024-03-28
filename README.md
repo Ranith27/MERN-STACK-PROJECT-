@@ -24,3 +24,12 @@ npm package used:
 * react-stripe-checkout
 * sweetalert2
 ### :four: Output
+<p>
+  <img src="https://github.com/Ranith27/MERN-STACK-PROJECT-/assets/115481333/3406f138-c54f-4dfd-a1e2-ac3b97a5af17" width=700>
+  <img src="https://github.com/Ranith27/MERN-STACK-PROJECT-/assets/115481333/964e103b-09cc-4cdf-bc6e-451843cbe068" width=700>
+  <img src="https://github.com/Ranith27/MERN-STACK-PROJECT-/assets/115481333/afe5fb4c-2a20-478c-b48b-ff4cddc7bdfb" width=700>
+  <img src="https://github.com/Ranith27/MERN-STACK-PROJECT-/assets/115481333/a3589297-1edf-46df-be90-6a3175fd0667" width=700>
+  <img src="https://github.com/Ranith27/MERN-STACK-PROJECT-/assets/115481333/e68eaed7-3e45-43ec-b92f-a16b401a432d" width=700>
+  <img src="https://github.com/Ranith27/MERN-STACK-PROJECT-/assets/115481333/49e3fd9e-e71d-4e85-a19d-402a94d2b8d0" width=700>
+  <img src="https://github.com/Ranith27/MERN-STACK-PROJECT-/assets/115481333/37551a18-6238-4ce0-b410-68f8a9f0731a" width=700>
+<p>
